@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2160">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="304">
+              <caret line="160" column="17" lean-forward="true" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -293,7 +293,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583126572388" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583126799708" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -474,7 +474,7 @@
       <workItem from="1582641605236" duration="36420000" />
       <workItem from="1582782632742" duration="22507000" />
       <workItem from="1583049815500" duration="1164000" />
-      <workItem from="1583117752041" duration="5620000" />
+      <workItem from="1583117752041" duration="5881000" />
     </task>
     <task id="LOCAL-00001" summary="人事档案管理系统">
       <created>1583123610095</created>
@@ -504,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583126225923</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="人事档案管理系统">
+      <created>1583126730327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583126730328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -516,7 +523,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466574000" />
+    <option name="totallyTimeSpent" value="466835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,9 +536,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.31295845" side_tool="true" weight="0.27155825" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6621622" visible="true" weight="0.23373677" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6621622" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="2" sideWeight="0.198939" side_tool="true" weight="0.26096824" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -552,7 +560,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.3236715" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" visible="true" weight="0.28387097" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" visible="true" weight="0.28387097" />
       <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.44927537" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -944,8 +952,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2160">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="304">
+          <caret line="160" column="17" lean-forward="true" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
         </state>
       </provider>
     </entry>
