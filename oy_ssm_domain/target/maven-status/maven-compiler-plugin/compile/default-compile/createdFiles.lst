@@ -1,0 +1,14 @@
+com\oy\ssm\domain\DepartmentAndPosition.class
+com\oy\ssm\domain\UserCultivate.class
+com\oy\ssm\domain\AchievementOpinion.class
+com\oy\ssm\domain\Contract.class
+com\oy\ssm\domain\Position.class
+com\oy\ssm\domain\UserInfo.class
+com\oy\ssm\domain\Cultivate.class
+com\oy\ssm\domain\SysLog.class
+com\oy\ssm\domain\UserFile.class
+com\oy\ssm\domain\UserPosition.class
+com\oy\ssm\domain\Department.class
+com\oy\ssm\domain\Achievement.class
+com\oy\ssm\domain\Notice.class
+com\oy\ssm\domain\Role.class

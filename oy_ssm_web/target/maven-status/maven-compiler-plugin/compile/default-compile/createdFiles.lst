@@ -1,0 +1,14 @@
+com\oy\ssm\controller\DepartmentController.class
+com\oy\ssm\controller\AchievementOpinionController.class
+com\oy\ssm\controller\UserCultivateController.class
+com\oy\ssm\controller\DepartmentAndPositionController.class
+com\oy\ssm\controller\PositionController.class
+com\oy\ssm\controller\CultivateController.class
+com\oy\ssm\controller\UserController.class
+com\oy\ssm\controller\NoticeController.class
+com\oy\ssm\controller\SysLogController.class
+com\oy\ssm\controller\UserFileController.class
+com\oy\ssm\controller\ContractController.class
+com\oy\ssm\controller\AchievementController.class
+com\oy\ssm\controller\RoleController.class
+com\oy\ssm\controller\LogAop.class

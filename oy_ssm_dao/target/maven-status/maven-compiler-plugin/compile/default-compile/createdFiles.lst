@@ -1,0 +1,13 @@
+com\oy\ssm\dao\IAchievementDao.class
+com\oy\ssm\dao\IUserDao.class
+com\oy\ssm\dao\ISysLogDao.class
+com\oy\ssm\dao\IUserFileDao.class
+com\oy\ssm\dao\IDepartmentAndPositionDao.class
+com\oy\ssm\dao\IDepartmentDao.class
+com\oy\ssm\dao\IUserCultivateDao.class
+com\oy\ssm\dao\IAchievementOpinionDao.class
+com\oy\ssm\dao\INoticeDao.class
+com\oy\ssm\dao\ICultivateDao.class
+com\oy\ssm\dao\IPositionDao.class
+com\oy\ssm\dao\IContractDao.class
+com\oy\ssm\dao\IRoleDao.class
