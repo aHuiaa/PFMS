@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045d010b-a649-4cfd-b0bf-8bab26cb0fb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="89">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -289,7 +288,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583123559737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583125500351" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -297,7 +296,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -470,8 +469,16 @@
       <workItem from="1582641605236" duration="36420000" />
       <workItem from="1582782632742" duration="22507000" />
       <workItem from="1583049815500" duration="1164000" />
-      <workItem from="1583117752041" duration="3133000" />
+      <workItem from="1583117752041" duration="4473000" />
     </task>
+    <task id="LOCAL-00001" summary="人事档案管理系统">
+      <created>1583123610095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583123610095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -483,7 +490,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="464087000" />
+    <option name="totallyTimeSpent" value="465427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +503,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.31295845" side_tool="true" weight="0.27155825" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6621622" visible="true" weight="0.23373677" />
@@ -520,7 +526,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.3236715" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" visible="true" weight="0.3580645" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" visible="true" weight="0.431562" />
       <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.44927537" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -572,6 +578,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="人事档案管理系统" />
     <option name="LAST_COMMIT_MESSAGE" value="人事档案管理系统" />
   </component>
@@ -909,8 +918,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="89">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
