@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="-2160">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -293,7 +293,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583126014934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583126572388" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -474,7 +474,7 @@
       <workItem from="1582641605236" duration="36420000" />
       <workItem from="1582782632742" duration="22507000" />
       <workItem from="1583049815500" duration="1164000" />
-      <workItem from="1583117752041" duration="5309000" />
+      <workItem from="1583117752041" duration="5620000" />
     </task>
     <task id="LOCAL-00001" summary="人事档案管理系统">
       <created>1583123610095</created>
@@ -497,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583125922413</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="人事档案管理系统">
+      <created>1583126225922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583126225923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,7 +516,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466263000" />
+    <option name="totallyTimeSpent" value="466574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -937,7 +944,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="-2160">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
