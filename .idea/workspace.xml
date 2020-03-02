@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045d010b-a649-4cfd-b0bf-8bab26cb0fb2" name="Default Changelist" comment="" />
+    <list default="true" id="045d010b-a649-4cfd-b0bf-8bab26cb0fb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/oy_ssm_dao/target/" />
     <ignored path="$PROJECT_DIR$/oy_ssm_domain/target/" />
@@ -38,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+            <state relative-caret-position="169">
+              <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -156,6 +159,9 @@
       <replace>psw</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -257,6 +263,7 @@
     <option name="width" value="1188" />
     <option name="height" value="678" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -282,8 +289,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583119470818" />
-    <property name="last_opened_file_path" value="Y:/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583123559737" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -463,7 +470,7 @@
       <workItem from="1582641605236" duration="36420000" />
       <workItem from="1582782632742" duration="22507000" />
       <workItem from="1583049815500" duration="1164000" />
-      <workItem from="1583117752041" duration="1646000" />
+      <workItem from="1583117752041" duration="3133000" />
     </task>
     <servers />
   </component>
@@ -476,7 +483,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462600000" />
+    <option name="totallyTimeSpent" value="464087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,7 +499,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.31295845" side_tool="true" weight="0.27155825" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6621622" visible="true" weight="0.23373677" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6621622" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="2" sideWeight="0.198939" side_tool="true" weight="0.26096824" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -513,7 +520,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.3236715" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" weight="0.41223833" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.32753405" side_tool="true" visible="true" weight="0.3580645" />
       <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.44927537" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -563,6 +570,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="人事档案管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="人事档案管理系统" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -898,8 +909,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oy_ssm_web/src/main/webapp/pages/aside.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        <state relative-caret-position="169">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
         </state>
       </provider>
     </entry>
